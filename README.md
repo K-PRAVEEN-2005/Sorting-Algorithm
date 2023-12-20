@@ -79,8 +79,9 @@ print(arr)
 ```
 
 ## Output:
- ![Alt text](<python 4 th1.png>)
-  ![Alt text](<python 4 th 2.png>) 
+  ![image](https://github.com/K-PRAVEEN-2005/Sorting-Algorithm/assets/145742724/64d68ace-b918-4e38-a654-3a05beb5c26b)
+![image](https://github.com/K-PRAVEEN-2005/Sorting-Algorithm/assets/145742724/ce4e014f-a2d8-42ed-8c4e-c0cef29c427d)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
